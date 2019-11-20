@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Matlab
 
 Add information

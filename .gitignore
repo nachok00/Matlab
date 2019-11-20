@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-# Matlab
-
-Add information
-
-Added a line in MATLAB.
-
-<<<<<<< HEAD
-=======
 # Windows default autosave extension
 *.asv
 
@@ -38,12 +29,3 @@ codegen/
 
 # Octave session info
 octave-workspace
->>>>>>> 671c6060c704a7fa3873dca84305334caa2588b6
-=======
-# Matlab
-
-Add information
-
-Added a line in MATLAB.
-
->>>>>>> a260b776974150190403afb95458fc9fd8ea7794
